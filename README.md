@@ -1,5 +1,3 @@
-# ranking-ciudades-espana
-
 # 🏙️ Sistema de Ranking Urbano de España
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
