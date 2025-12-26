@@ -148,7 +148,7 @@ scikit-learn>=1.3.0
 
 ### Ejecución en Google Colab (Recomendado)
 
-1. **Abrir notebook:** [Link al Colab]
+1. **Abrir notebook:** [https://colab.research.google.com/drive/1ts45Fs-x4eUVJf9lbREOkz9k_fl9vITE#scrollTo=BUehxfKAlOdv]
 2. **Ejecutar todas las celdas:** `Runtime > Run all`
 3. **Descargar resultados:** Los CSV se generan automáticamente
 
@@ -170,7 +170,7 @@ python ranking_ciudades.py
 
 ### Personalizar Pesos
 
-Edita el diccionario `PERFILES` en el código:
+Puedes editar el diccionario `PERFILES` en el código:
 
 ```python
 PERFILES = {
