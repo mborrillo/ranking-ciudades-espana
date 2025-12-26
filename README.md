@@ -234,7 +234,7 @@ ranking-ciudades-espana/
 
 ## 📊 Resultados
 
-### Top 10 Ranking General 2024
+### Top 10 Ranking General 2025
 
 | Pos | Ciudad | Score | Fortalezas |
 |-----|--------|-------|-----------|
@@ -298,22 +298,22 @@ ranking-ciudades-espana/
 
 ## 🗺️ Roadmap
 
-### ✅ Fase 1 (Completada - Q4 2024)
+### ✅ Fase 1 (Completada - Q3 2025)
 - [x] Sistema de ranking con 50 ciudades
 - [x] 5 perfiles personalizados
 - [x] Documentación completa
 
-### 🚧 Fase 2 (Q1-Q2 2025)
+### 🚧 Fase 2 (Q1-Q2 2026)
 - [ ] Expansión a 100 ciudades
 - [ ] Añadir 7 variables: clima, calidad aire, cultura, espacios verdes
 - [ ] Granularidad barrial (Madrid, Barcelona, Valencia)
 
-### 📅 Fase 3 (Q3 2025)
+### 📅 Fase 3 (Q3-2026)
 - [ ] Dashboard interactivo (React + D3.js)
 - [ ] API REST para consultas programáticas
 - [ ] Validación con encuestas (500+ usuarios/perfil)
 
-### 🔮 Fase 4 (Q4 2025 - 2026)
+### 🔮 Fase 4 (Q4-2026)
 - [ ] Modelos predictivos: evolución de scores en el tiempo
 - [ ] Integración con datos de empleo en tiempo real (LinkedIn, Indeed)
 - [ ] App móvil (iOS/Android)
@@ -366,9 +366,9 @@ Este proyecto está bajo licencia **MIT License** - ver archivo [LICENSE](LICENS
 
 **Marcos Borrillo**
 
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🐙 GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- 📧 Email: tu.email@ejemplo.com
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/marcos-borrillo/)
+- 🐙 GitHub: [@tu-usuario](https://github.com/mborrillo)
+- 📧 Email: 68borrismar@gmail.com
 
 ---
 
