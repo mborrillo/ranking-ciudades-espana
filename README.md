@@ -366,8 +366,8 @@ Este proyecto está bajo licencia **MIT License** - ver archivo [LICENSE](LICENS
 
 **Marcos Borrillo**
 
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/marcos-borrillo/)
-- 🐙 GitHub: [@tu-usuario](https://github.com/mborrillo)
+- 💼 LinkedIn: [linkedin.com/in/marcos-borrillo](https://www.linkedin.com/in/marcos-borrillo/)
+- 🐙 GitHub: [@mborrillo](https://github.com/mborrillo)
 - 📧 Email: 68borrismar@gmail.com
 
 ---
