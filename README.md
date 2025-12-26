@@ -396,6 +396,6 @@ Datos proporcionados por:
 
 **⭐ Si este proyecto te resultó útil, considera darle una estrella en GitHub**
 
-[⬆ Volver arriba](#-sistema-de-ranking-urbano-de-españa)
+[⬆ Volver arriba](#[https://github.com/mborrillo/ranking-ciudades-espana/blob/main/README.md#-sistema-de-ranking-urbano-de-espa%C3%B1a])
 
 </div>
